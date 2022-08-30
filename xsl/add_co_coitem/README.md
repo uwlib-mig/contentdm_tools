@@ -6,6 +6,6 @@ In order to process XML, the following element names must be used (important whe
 - CONTENTdm file name: `cdmfilename`
 
 ## Stylesheet variables
-- `collectionId`: This should be the alias for the target collection, not including the preceding slash
+- `collectionId`: This should be the alias for the target collection, not including preceding slash
 
 

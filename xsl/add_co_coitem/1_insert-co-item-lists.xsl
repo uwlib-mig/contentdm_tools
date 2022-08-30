@@ -6,7 +6,7 @@
     
     <xsl:output method="xml" indent="yes"/>
 
-    <xsl:variable name="collectionId"/>
+    <xsl:param name="collectionId"/>
     <xsl:variable name="base"
         select="concat('https://server16786.contentdm.oclc.org/cgi-bin/showfile.exe?CISOROOT=/', $collectionId, '&amp;CISOPTR=')"/>
     
